@@ -1,0 +1,151 @@
+DNI,Nombre_Completo,Gender,Age,Academic Pressure,CGPA,Promedio_Notas,Study Satisfaction,Sleep Duration,Dietary Habits,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness
+72341057,Juan Diaz Gutierrez,Male,14,3,7.37,14.74,5,Less than 5 hours,Healthy,No,5,2,No
+70533224,Ricardo Flores Ruiz,Male,16,3,6.58,13.15,5,More than 8 hours,Healthy,No,2,4,No
+70445199,Carlos Rojas Gutierrez,Male,17,2,6.78,13.56,4,5-6 hours,Unhealthy,No,4,3,No
+79886237,Ricardo Castillo Gutierrez,Male,16,5,6.22,12.43,1,More than 8 hours,Unhealthy,No,7,2,No
+74661907,Maria Vargas Castillo,Female,15,4,7.11,14.23,4,More than 8 hours,Moderate,No,5,3,No
+76374122,David Ramos Condori,Male,13,2,5.96,11.91,4,More than 8 hours,Unhealthy,No,6,5,No
+70728977,Daniel Lopez Romero,Male,15,4,7.67,15.35,1,5-6 hours,Moderate,No,6,5,No
+79261704,Rocio Condori Mendoza,Female,13,4,6.96,13.93,4,Less than 5 hours,Unhealthy,Yes,4,5,No
+71166941,Teresa Lopez Ruiz,Female,14,3,5.9,11.81,3,7-8 hours,Moderate,No,1,3,No
+71694522,Pedro Chavez Flores,Male,14,4,7.51,15.03,1,5-6 hours,Healthy,No,8,4,No
+76210606,Sofia Garcia Lopez,Female,14,3,7.77,15.53,3,Less than 5 hours,Unhealthy,No,1,3,No
+72871230,Isabel Diaz Flores,Female,17,3,8.45,16.89,1,Less than 5 hours,Healthy,Yes,7,2,No
+79344066,Miguel Garcia Mendoza,Male,15,5,6.86,13.73,5,5-6 hours,Unhealthy,No,7,3,No
+75292423,Victor Mamani Gutierrez,Male,13,4,4.27,8.53,2,5-6 hours,Healthy,No,2,5,No
+75279418,Sofia Flores Rojas,Female,17,2,7.95,15.91,4,5-6 hours,Moderate,Yes,1,1,No
+74443951,Raul Mendoza Garcia,Male,14,3,6.49,12.98,3,7-8 hours,Moderate,No,1,5,Yes
+79807725,Pedro Espinoza Espinoza,Male,15,4,7.13,14.25,1,5-6 hours,Moderate,No,6,1,No
+72320821,Gloria Mendoza Lopez,Female,14,5,4.93,9.85,1,5-6 hours,Unhealthy,No,8,1,Yes
+72684052,Carmen Mamani Condori,Female,14,2,8.3,16.59,5,More than 8 hours,Moderate,No,4,2,No
+79997348,Teresa Flores Mendoza,Female,16,3,4.97,9.93,1,7-8 hours,Moderate,No,7,5,Yes
+71921859,Vanessa Diaz Espinoza,Female,13,5,6.13,12.27,3,7-8 hours,Healthy,No,4,4,No
+72653446,Daniela Condori Chavez,Female,16,4,7.9,15.81,1,7-8 hours,Moderate,No,1,2,No
+78517485,Maria Diaz Sanchez,Female,14,4,9.09,18.18,2,5-6 hours,Moderate,No,8,1,No
+72564217,Manuel Sanchez Romero,Male,14,5,7.25,14.49,5,Less than 5 hours,Moderate,No,8,3,No
+75438436,Elena Espinoza Sanchez,Female,13,1,6.39,12.79,4,Less than 5 hours,Unhealthy,No,3,1,Yes
+74017343,Maria Condori Lopez,Female,15,1,8.08,16.16,3,5-6 hours,Moderate,No,1,5,No
+78153566,Pedro Ruiz Flores,Male,13,4,6.74,13.49,3,5-6 hours,Moderate,No,1,1,No
+79224173,Ricardo Huaman Huaman,Male,16,5,6.27,12.54,3,5-6 hours,Moderate,No,6,3,No
+73553384,Jesus Sanchez Romero,Male,16,3,6.28,12.57,4,Less than 5 hours,Unhealthy,No,3,1,No
+78683481,Manuel Mendoza Lopez,Male,16,3,7.38,14.76,4,More than 8 hours,Moderate,No,1,5,No
+75672134,Rosa Gutierrez Gutierrez,Female,13,5,6.18,12.37,1,Less than 5 hours,Moderate,No,8,3,No
+73694634,Gabriel Espinoza Gutierrez,Male,17,2,7.72,15.44,2,5-6 hours,Moderate,No,7,3,Yes
+70527021,Carlos Mamani Gutierrez,Male,13,2,7.31,14.62,2,7-8 hours,Unhealthy,No,3,2,No
+78143903,Carmen Sanchez Gutierrez,Female,15,5,8.97,17.95,4,7-8 hours,Healthy,No,1,4,No
+77930103,Ricardo Huaman Ruiz,Male,17,2,5.25,10.5,5,7-8 hours,Moderate,Yes,6,2,No
+71626229,Raul Castillo Rojas,Male,13,3,8.25,16.5,4,7-8 hours,Moderate,No,5,1,No
+70908841,Gabriela Castillo Castillo,Female,16,3,6.26,12.52,4,More than 8 hours,Unhealthy,Yes,8,5,No
+74171761,Luis Mendoza Ramos,Male,13,3,7.3,14.6,4,Less than 5 hours,Unhealthy,No,2,2,No
+77077999,David Espinoza Garcia,Male,14,1,5.25,10.5,2,7-8 hours,Moderate,No,8,1,No
+77434500,Jesus Garcia Gutierrez,Male,13,5,6.33,12.66,5,5-6 hours,Moderate,No,7,3,Yes
+73965789,Luis Espinoza Quispe,Male,13,2,6.45,12.91,2,5-6 hours,Healthy,No,8,5,No
+76728339,Diego Torres Torres,Male,14,2,9.09,18.18,5,5-6 hours,Healthy,No,4,2,No
+74449368,Miguel Mendoza Quispe,Male,16,2,9.17,18.33,1,7-8 hours,Moderate,No,4,3,Yes
+72597059,Andrea Castillo Espinoza,Female,16,5,7.27,14.53,3,7-8 hours,Unhealthy,No,3,5,No
+79096526,Manuel Rojas Mamani,Male,17,2,5.65,11.29,5,7-8 hours,Healthy,No,3,2,No
+77999183,Victor Mamani Mamani,Male,17,2,5.88,11.75,2,5-6 hours,Moderate,No,3,1,No
+71149597,Luis Sanchez Flores,Male,14,5,6.64,13.27,1,5-6 hours,Moderate,No,4,2,No
+74130808,Pedro Mendoza Condori,Male,17,4,6.12,12.24,2,5-6 hours,Moderate,No,1,5,No
+79482934,Mario Flores Castillo,Male,17,4,7.54,15.08,1,7-8 hours,Moderate,Yes,6,5,No
+74456272,Sofia Rojas Ramos,Female,14,4,3.93,7.86,1,More than 8 hours,Unhealthy,No,7,4,No
+71217071,Lucia Chavez Garcia,Female,15,1,4.51,9.02,4,7-8 hours,Unhealthy,No,3,5,Yes
+71229110,Jose Antonio Romero Ruiz,Male,13,2,6.19,12.38,2,5-6 hours,Unhealthy,No,7,2,Yes
+71154126,Eduardo Diaz Huaman,Male,15,4,7.27,14.53,1,5-6 hours,Moderate,No,5,5,Yes
+79113685,Daniel Chavez Vargas,Male,16,5,6.05,12.09,5,5-6 hours,Unhealthy,No,6,3,No
+75022741,Teresa Sanchez Quispe,Female,17,4,6.98,13.97,4,7-8 hours,Moderate,No,7,3,No
+79281552,Jose Diaz Condori,Male,13,3,7.78,15.57,5,5-6 hours,Healthy,Yes,5,2,Yes
+75752576,Jesus Chavez Romero,Male,14,5,8.34,16.68,4,5-6 hours,Moderate,No,6,1,No
+70852264,Jesus Sanchez Torres,Male,15,2,7.71,15.43,4,Less than 5 hours,Unhealthy,No,5,5,No
+75596150,Diego Diaz Mamani,Male,13,4,6.87,13.74,1,5-6 hours,Moderate,No,2,1,No
+77175395,Jesus Vargas Garcia,Male,17,3,5.78,11.57,1,More than 8 hours,Healthy,No,3,4,Yes
+70604451,Jorge Flores Huaman,Male,17,4,5.52,11.03,2,5-6 hours,Moderate,No,8,2,No
+72138181,Gloria Espinoza Huaman,Female,16,3,6.14,12.27,1,5-6 hours,Moderate,No,1,1,Yes
+73524499,Manuel Lopez Mamani,Male,15,1,8.86,17.71,2,5-6 hours,Healthy,No,2,2,No
+72592974,Jorge Lopez Espinoza,Male,16,2,4.59,9.17,1,7-8 hours,Moderate,No,3,5,No
+73009172,Miguel Vargas Castillo,Male,13,5,7.02,14.05,5,5-6 hours,Unhealthy,No,6,3,No
+71813543,Valeria Gutierrez Diaz,Female,14,1,6.14,12.29,5,Less than 5 hours,Unhealthy,No,6,1,No
+77722606,Ana Torres Gutierrez,Female,14,4,8.08,16.15,2,5-6 hours,Unhealthy,No,2,2,No
+73240180,Andrea Gutierrez Gutierrez,Female,13,4,8.68,17.35,5,5-6 hours,Healthy,Yes,6,3,No
+75891254,Daniela Diaz Flores,Female,15,3,8.61,17.22,4,5-6 hours,Moderate,No,2,2,No
+74382463,Rocio Ramos Quispe,Female,13,4,7.85,15.69,1,7-8 hours,Moderate,No,6,1,No
+77290770,Gabriel Diaz Mamani,Male,13,4,6.73,13.46,4,More than 8 hours,Moderate,No,8,5,No
+71940214,Daniela Castillo Romero,Female,17,3,7.75,15.49,3,5-6 hours,Moderate,No,7,1,No
+77315831,Gloria Rojas Diaz,Female,13,1,7.45,14.9,3,5-6 hours,Unhealthy,No,8,3,No
+77235969,Eduardo Espinoza Rojas,Male,15,5,5.61,11.22,5,5-6 hours,Healthy,No,2,4,No
+75038571,Victor Romero Ramos,Male,13,1,7.73,15.47,2,Less than 5 hours,Unhealthy,No,5,3,Yes
+79301497,Valeria Ramos Mendoza,Female,15,3,6.39,12.78,5,7-8 hours,Healthy,No,1,2,No
+79548001,David Castillo Mendoza,Male,14,2,7.75,15.5,4,7-8 hours,Healthy,No,7,2,No
+74813613,Camila Espinoza Quispe,Female,15,3,6.84,13.67,4,5-6 hours,Moderate,No,5,2,No
+77801207,Diego Ruiz Romero,Male,15,1,6.52,13.03,1,5-6 hours,Moderate,No,7,2,No
+72846949,Fernanda Rojas Sanchez,Female,16,2,6.69,13.38,3,5-6 hours,Moderate,No,1,5,No
+71566777,Manuel Sanchez Romero,Male,15,2,8.6,17.2,1,7-8 hours,Moderate,No,5,4,No
+70409790,Manuel Gutierrez Rojas,Male,14,5,9.23,18.47,1,Less than 5 hours,Healthy,No,1,5,Yes
+77640615,Pedro Torres Romero,Male,13,1,6.01,12.02,3,More than 8 hours,Healthy,No,3,5,No
+76705062,Gloria Rojas Mendoza,Female,16,4,5.67,11.34,1,7-8 hours,Unhealthy,No,6,3,No
+73671545,Jose Quispe Condori,Male,16,2,6.21,12.42,4,5-6 hours,Moderate,Yes,3,4,No
+74180853,Eduardo Garcia Mamani,Male,17,5,7.37,14.74,3,5-6 hours,Moderate,No,7,4,No
+79377210,Jose Antonio Huaman Garcia,Male,17,2,9.25,18.49,5,Less than 5 hours,Healthy,Yes,8,2,Yes
+79191766,Fernanda Romero Sanchez,Female,16,3,9.23,18.46,1,More than 8 hours,Healthy,No,5,4,No
+74147994,Elena Torres Garcia,Female,15,5,7.36,14.72,3,5-6 hours,Healthy,No,1,5,No
+77379837,Vanessa Torres Gutierrez,Female,15,3,8.73,17.45,2,5-6 hours,Moderate,No,6,4,No
+75363836,Manuel Gutierrez Diaz,Male,15,5,7.44,14.88,1,5-6 hours,Unhealthy,No,7,1,No
+72563646,Jose Huaman Gutierrez,Male,16,3,7.12,14.24,3,7-8 hours,Moderate,Yes,6,3,No
+79103504,Carlos Castillo Castillo,Male,15,3,7.54,15.08,4,5-6 hours,Moderate,No,5,1,Yes
+76534336,Valeria Mamani Rojas,Female,16,2,9.59,19.18,2,7-8 hours,Healthy,No,5,3,No
+75901533,Gabriel Mendoza Torres,Male,13,5,9.57,19.14,5,7-8 hours,Unhealthy,No,5,4,No
+73700025,Camila Castillo Espinoza,Female,17,4,5.58,11.17,2,5-6 hours,Healthy,No,3,3,No
+70486955,Patricia Diaz Castillo,Female,16,3,5.64,11.27,4,Less than 5 hours,Healthy,No,2,5,No
+72141239,Daniela Mendoza Vargas,Female,16,3,3.84,7.69,4,More than 8 hours,Unhealthy,Yes,4,4,No
+71408404,Cesar Ruiz Ruiz,Male,13,1,6.0,11.99,3,More than 8 hours,Moderate,Yes,5,1,No
+74364698,Lucia Garcia Vargas,Female,13,4,8.38,16.75,1,5-6 hours,Moderate,Yes,1,3,No
+75662319,Daniela Rojas Garcia,Female,15,1,5.48,10.97,2,5-6 hours,Moderate,No,3,2,No
+77890439,Sofia Castillo Diaz,Female,13,3,4.68,9.36,4,5-6 hours,Moderate,No,3,3,Yes
+71151225,Ricardo Mamani Lopez,Male,14,3,8.05,16.1,2,7-8 hours,Healthy,No,4,2,Yes
+72556551,Juan Gutierrez Rojas,Male,13,4,5.88,11.75,5,5-6 hours,Moderate,No,8,1,No
+73656838,Jose Torres Condori,Male,17,5,6.04,12.08,1,5-6 hours,Moderate,Yes,5,5,No
+71921542,Sofia Lopez Vargas,Female,17,2,8.16,16.32,2,5-6 hours,Moderate,No,6,4,Yes
+75233774,Manuel Condori Ruiz,Male,13,3,6.04,12.08,2,7-8 hours,Moderate,Yes,2,3,Yes
+74074336,Camila Rojas Flores,Female,17,2,6.47,12.95,5,5-6 hours,Moderate,No,8,1,No
+70689025,Manuel Romero Condori,Male,17,5,4.61,9.23,3,5-6 hours,Unhealthy,No,3,1,No
+78488613,Rocio Castillo Lopez,Female,13,3,8.01,16.03,4,Less than 5 hours,Moderate,No,4,5,Yes
+77273315,Maria Castillo Torres,Female,13,5,8.45,16.91,3,7-8 hours,Moderate,No,8,5,No
+78753457,Fernanda Huaman Castillo,Female,14,5,7.71,15.42,4,7-8 hours,Moderate,Yes,3,2,No
+77307727,Teresa Espinoza Torres,Female,16,1,8.23,16.46,2,5-6 hours,Unhealthy,No,5,4,Yes
+77563202,Daniela Gutierrez Flores,Female,15,3,5.91,11.82,1,5-6 hours,Unhealthy,No,2,3,No
+75643798,Jose Antonio Ruiz Romero,Male,16,4,7.52,15.04,2,Less than 5 hours,Moderate,Yes,2,5,No
+73558780,Raul Ramos Vargas,Male,16,5,5.25,10.5,2,5-6 hours,Moderate,No,4,1,No
+74635017,Sofia Ramos Diaz,Female,17,4,7.07,14.14,5,Less than 5 hours,Unhealthy,No,1,5,No
+76818732,Eduardo Rojas Flores,Male,14,2,7.98,15.96,2,Less than 5 hours,Healthy,No,4,3,Yes
+77519121,Rocio Gutierrez Torres,Female,16,4,6.47,12.94,1,More than 8 hours,Moderate,No,3,3,Yes
+74081983,Carlos Chavez Gutierrez,Male,16,1,8.26,16.52,2,Less than 5 hours,Unhealthy,No,4,4,No
+78907391,Gloria Lopez Torres,Female,17,2,7.22,14.44,5,5-6 hours,Moderate,No,1,1,No
+77612582,Valeria Espinoza Ramos,Female,15,1,5.44,10.88,3,7-8 hours,Moderate,No,3,2,No
+73231028,Andrea Diaz Gutierrez,Female,13,3,5.84,11.68,1,More than 8 hours,Moderate,No,5,1,No
+73630331,Rosa Espinoza Vargas,Female,14,3,6.44,12.88,5,7-8 hours,Unhealthy,No,1,5,No
+74747930,Sofia Ruiz Sanchez,Female,17,2,7.29,14.57,5,5-6 hours,Healthy,No,6,2,Yes
+73010529,David Chavez Gutierrez,Male,15,2,7.01,14.02,3,5-6 hours,Unhealthy,No,7,5,No
+70763626,Maria Espinoza Huaman,Female,15,4,4.99,9.99,5,7-8 hours,Moderate,No,2,3,Yes
+71721135,Ricardo Chavez Huaman,Male,16,1,7.38,14.75,4,7-8 hours,Moderate,No,5,1,No
+77389840,Gabriel Chavez Torres,Male,16,2,5.38,10.76,3,5-6 hours,Unhealthy,No,7,5,No
+71914064,Elena Mamani Diaz,Female,16,4,3.79,7.57,5,5-6 hours,Moderate,No,6,1,No
+70899411,Cesar Torres Flores,Male,17,5,4.65,9.3,1,Less than 5 hours,Moderate,No,6,1,No
+74163953,Jose Ruiz Chavez,Male,13,5,4.55,9.1,1,More than 8 hours,Healthy,Yes,8,1,No
+73786401,Ricardo Castillo Romero,Male,17,4,5.94,11.88,3,More than 8 hours,Unhealthy,Yes,6,5,No
+77194570,Fernanda Garcia Chavez,Female,17,5,7.75,15.5,5,Less than 5 hours,Healthy,No,3,5,Yes
+71664863,Gloria Romero Mamani,Female,17,1,7.39,14.79,1,More than 8 hours,Healthy,No,3,4,No
+74024269,David Diaz Flores,Male,14,1,8.24,16.49,3,5-6 hours,Moderate,No,8,3,No
+76853787,Ricardo Flores Vargas,Male,13,1,5.7,11.4,3,5-6 hours,Healthy,No,3,4,Yes
+73883526,Teresa Torres Chavez,Female,13,1,6.96,13.91,5,5-6 hours,Moderate,Yes,3,3,No
+74438490,Andrea Garcia Flores,Female,14,5,6.81,13.61,4,7-8 hours,Unhealthy,Yes,8,5,No
+72499627,Diego Condori Espinoza,Male,14,5,5.96,11.92,3,5-6 hours,Moderate,No,2,3,No
+75160869,Lucia Flores Mamani,Female,14,4,7.05,14.1,1,Less than 5 hours,Moderate,No,3,3,No
+76752972,Fernanda Condori Garcia,Female,15,4,7.13,14.26,3,Less than 5 hours,Unhealthy,No,6,4,Yes
+71349590,Vanessa Espinoza Torres,Female,16,3,6.54,13.08,5,7-8 hours,Unhealthy,No,6,2,Yes
+70433940,Diego Ramos Romero,Male,15,5,6.93,13.87,3,7-8 hours,Moderate,No,1,1,No
+74521644,Pedro Ruiz Ruiz,Male,13,2,6.37,12.73,1,5-6 hours,Moderate,No,8,2,Yes
+74666692,Miguel Torres Sanchez,Male,16,4,7.02,14.05,4,Less than 5 hours,Moderate,No,8,4,Yes
+77885465,Gabriel Castillo Torres,Male,13,2,4.49,8.98,3,More than 8 hours,Moderate,No,2,2,No
+72698193,Valeria Ramos Ramos,Female,13,4,7.96,15.91,5,Less than 5 hours,Moderate,No,4,5,No
+79229089,Valeria Torres Chavez,Female,16,2,6.06,12.11,5,Less than 5 hours,Unhealthy,No,4,1,No
+75423634,Jose Antonio Flores Ramos,Male,15,3,9.1,18.2,4,7-8 hours,Moderate,Yes,8,2,No
